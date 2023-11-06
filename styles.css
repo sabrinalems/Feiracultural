@@ -78,13 +78,14 @@ body {
 
 .descricao__titulo {
     font-weight: 700;
-    font-size: 48px;
+    font-size: 60px;
     color: var(--branco-principal);
     margin-bottom: 0.1em;
 }
 
 .descricao__texto {
     color: var(--cinza-secundario);
+    font-size: 32px;
 }
 
 .secundario__botao {
